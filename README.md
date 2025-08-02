@@ -7,7 +7,7 @@
 > **Please, call me Nino**
 
 I studied Theoretical Physics and jumped into Software Engineering in 2019.
-Turning my hobby for tinkering with my pc into a career.
+Turning my hobby of tinkering with Linux and Wolfram into a career.
 Since then, I’ve been thriving in Platform and Data Engineering roles,
 yet I’m always eager to pitch in on DevOps or Full Stack challenges whenever given the chance.
 
