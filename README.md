@@ -11,7 +11,7 @@ Turning my hobby of tinkering with Linux and Wolfram into a career.
 Since then, I’ve been thriving in Platform and Data Engineering roles,
 yet I’m always eager to pitch in on DevOps or Full Stack challenges whenever given the chance.
 
-When I step out of my (zsh) shell, I love building software in Python, Typescript, Java and Scala, switching SQL dialects as projects demand.
+When I step out of my (zsh) shell, I love building software in Python, Typescript, Java and Scala; switching SQL dialects as projects demand.
 I try to write testable software, and the first thing I learn when I pick up a new language is what test framework to use.
 I’m excited to level up in Rust, Go, and Lua. I still type away in LaTeX, and I’m looking forward to giving Typst a spin.
 
