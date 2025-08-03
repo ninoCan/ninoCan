@@ -18,7 +18,7 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 
 🧪 I switch SQL dialects as projects demand and have experience across **OLTP**, **OLAP**, **NoSQL**, and **graph** databases.
 
-🎤 Giving back to the community, I mentor fellow engineers by crafting tech articles. You'll find me around local meetups and conferences about testing, observability, and API design–occasionally speaking (see [talks](#past-talks)). Not as much as I wish to, I try to contribute to open-source projects every now and again.
+🎤 Giving back to the community, I mentor fellow engineers by crafting tech articles. You'll find me around local meetups and conferences about testing, observability, and API design–occasionally speaking (see [talks](#-past-talks)). Not as much as I wish to, I try to contribute to open-source projects every now and again.
 
 ⚙️ Currently leveling up in **Rust**, **Go**, and **Lua**. And yes, I still typeset in **LaTeX**, but I’m excited to give **Typst** a try.
 
