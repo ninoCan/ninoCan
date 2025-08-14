@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: akosbalasko/coffee-readme@main
         with:
-          BUY_ME_A_COFFEE_TOKEN: ${{ secrets.BUYMEACOFFEE_TOKEN }}
+          BUY_ME_A_COFFEE_TOKEN: ${{ secrets.BUY_ME_A_COFFEE_TOKEN }}
           GH_TOKEN: ${{secrets.GITHUB_TOKEN }}
