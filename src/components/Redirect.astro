@@ -1,0 +1,18 @@
+---
+// Import the Markdown file
+const { redirect } = Astro.props;
+
+// Perform the redirect
+if (redirect) {
+  Astro.redirect(redirect);
+}
+---
+
+<html>
+  <head>
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url={redirect}" />
+  </head>
+  <body>
+    <p>If you are not
+</html>

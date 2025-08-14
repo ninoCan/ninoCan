@@ -1,0 +1,11 @@
+---
+import Redirect from '../../components/Redirect.astro';
+
+// Fetch the Markdown content based on the slug
+const { frontmatter } = await Astro.fetchContent(`./${Astro.params.slug}.md`);
+
+// Pass the redirect URL to the Redirect component
+const { redirect } = frontmatter;
+---
+
+<Redirect redirect={redirect} />
