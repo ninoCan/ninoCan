@@ -1,5 +1,5 @@
-![](https://buymeacoffee.com/ninocan)
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=â˜•&amp;slug=ninocan&amp;button_colour=016eea&amp;font_colour=ffffff&amp;font_family=Inter&amp;outline_colour=ffffff&amp;coffee_colour=FFDD00">
+
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;slug=ninocan&amp;button_colour=016eea&amp;font_colour=ffffff&amp;font_family=Inter&amp;outline_colour=ffffff&amp;coffee_colour=FFDD00">
 
 # ninoCan - Anto**nino Can**gialosi's GitHub page
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ninoCan&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true)]()
