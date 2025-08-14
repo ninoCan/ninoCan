@@ -1,4 +1,5 @@
-name: Buy Me A Coffee Readme
+name: Buy Me A Coffee Display
+# Generate a token here: <https://developers.buymeacoffee.com/dashboard>
 
 on:
   workflow_dispatch:
