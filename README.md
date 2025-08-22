@@ -1,4 +1,6 @@
-<h1>ninoCan - Anto**nino Can**gialosi's GitHub page <a href="https://www.buymeacoffee.com/ninocan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a></h1>
+# ninoCan - Anto**nino Can**gialosi's GitHub page 
+
+<a href="https://www.buymeacoffee.com/ninocan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ninoCan&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninoCan&count_private=true&langs_count=10&theme=dracula&layout=compact)]()
