@@ -49,13 +49,6 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 - "_Dirac’s magnetic monopole_" @ **University of Pisa**, June 2015
 - "_Landau gauge in classical electrodynamics_" @ **University of Pisa**, April 2015
 
-## 📚 Certifications
-
-- Astronomer's **Apache Airflow 3 Fundamentals** (2025)
-- Google's **Professional Data Engineer** (2024)
-- CNCF's **Certified Kubernetes Administrator** (2024)
-- CNCF's **Kubernetes and Cloud Native Associate** (2023)
-
 ### Continuous Learning
 - [Pluralsights profile](https://app.pluralsight.com/profile/nino-cangialosi)
 - [Linux Foundation portfolio](https://openprofile.dev/profile/ninocan)
