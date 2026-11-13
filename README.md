@@ -15,7 +15,7 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 
 💼 As a **Big Data Engineer** at [AgileLab](https://www.agilelab.it/), I work at the intersection of **DevOps**, **Data Engineering**, and **Platform Development**, crafting integrations for banking and insurance clients using tools like **Kubernetes**, **Airflow**, **Kafka**, **Spark**, and **React**.
 
-🧠 My physics background sharpened my analytical thinking. When I step out of my (**Zsh**) shell, I apply it to write clean, domain-driven, testable code in **Python**, **Java**, **TypeScript**, and **Scala**.
+🧠 My physics background sharpened my analytical thinking. When I step out of my (**Zsh**) shell, I apply it to write clean, domain-driven, testable code in **Python**, **Java**, **TypeScript**, **Go**, and **Scala**.
 
 🚀 I enjoy tinkering with tooling and infrastructure (**Helm**, **Terraform**, **Jenkins**, **GCP**, **AWS**) and am always eager to streamline developer experience, improve observability, and bring DevOps best practices to teams.
 
@@ -23,7 +23,7 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 
 🎤 Giving back to the community, I mentor fellow engineers by crafting tech articles. You'll find me around local meetups and conferences about testing, observability, and API design–occasionally speaking (see [talks](#-past-talks)). Not as much as I wish to, I try to contribute to open-source projects every now and again.
 
-⚙️ Currently leveling up in **Rust**, **Go**, and **Lua**. And yes, I still typeset in **LaTeX**, but I’m excited to give **Typst** a try.
+⚙️ Currently leveling up in **Rust**, and **Lua**. And yes, I still typeset in **LaTeX**, but I’m excited to give **Typst** a try.
 
 ## OSS Contributions
 
