@@ -27,6 +27,7 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 
 ## OSS Contributions
 
+- [lighting-sql](https://github.com/ninoCan/lighting-sql): Espanso package for swiftly composing complex SQL queries
 - Legesher: contributed to Italian translation of Python keywords
 - ClamAV: correction of a misaligned comment 
 - Oh-my-bash: Added GCP plugin
@@ -35,6 +36,7 @@ I'm passionate about building scalable, _distributed systems_, set up _automatio
 
 ## 🗣 Past Talks
 
+- "_Master the Art of Schema Dissection: Operation Data Engineer_" @ **PyCon LT**, April 2025 & **PyCon IT**, May 2026 - [slides](https://ninocan.github.io/talk-operation-data-engineer/), [video 1](https://www.youtube.com/watch?v=dFEE8CZZ9Zc), [video 2](https://www.youtube.com/watch?v=9lF1foH6Skg)
 - "_OTEL: How I learned to stop worrying and love my microservices_" @ GDG's **Pisa Dev Fest**, April 2025 - [slides](https://ninocan.github.io/talk-otel/)
 - "_ProtoBuf from Scratch: The API Game Changer_" @ **Pisa.dev**, March 2025 - [slides](https://ninocan.github.io/talk-protobuf-from-scratch/)
 - "_Testing Demystified: The Boring, the Hard, and the Practical_" @ **AppAround**, November 2024 - [slides](https://ninocan.github.io/talk-testing-demystified/)
